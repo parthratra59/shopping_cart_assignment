@@ -43,7 +43,7 @@ List of available products
 
 .env file 
 ```bash
- "PRICE_API_BASE_URL=http://localhost:3001/products" > .env
+ "PRICE_API_BASE_URL=http://localhost:3001/products"
 "TAX_RATE=0.125" 
 ```
 
