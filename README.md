@@ -41,9 +41,11 @@ List of available products
 * `weetabix`
 
 
-# Create and configure the .env file
-echo "PRICE_API_BASE_URL=http://localhost:3001/products" > .env
-echo "TAX_RATE=0.125" >> .env
+.env file 
+```bash
+ "PRICE_API_BASE_URL=http://localhost:3001/products" > .env
+"TAX_RATE=0.125" 
+```
 
 ## Example
 The below is a sample with the correct values you can use to confirm your calculations
